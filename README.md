@@ -70,12 +70,12 @@ This project delivers:
 We recommend using **conda** for environment management.
 
 ### Installation
-
+````
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/RuhamaY/solar-challenge-week1
    cd solar-challenge
-````
+
 
 2. **Create & activate environment**
 
