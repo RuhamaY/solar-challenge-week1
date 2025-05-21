@@ -1,4 +1,3 @@
-```markdown
 # Solar Farm Analysis — West Africa
 
 A cross-country exploratory data analysis of solar farm measurements from Benin, Sierra Leone and Togo.  
@@ -42,8 +41,6 @@ This project delivers:
 ---
 
 ## 🗂 Repository Structure
-
-```
 
 ├── .github/
 │   └── workflows/
