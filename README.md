@@ -41,7 +41,7 @@ This project delivers:
 ---
 
 ## 🗂 Repository Structure
-
+```
 ├── .github/
 │   └── workflows/
 │       └── ci.yml            # Continuous Integration: installs deps & runs basic checks
